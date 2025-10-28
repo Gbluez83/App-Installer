@@ -1,0 +1,59 @@
+This is an Application deployment tool created by Ilanders P (v-ilpaxton). Its main purpose to install a list of applications used in the testing process on newly imaged Test Machines. The entire purpose is to streamline the setup process to increase productivity. 
+
+
+Step 1. Open Powershell under Admin and company and past this:
+
+Set-ExecutionPolicy Unrestricted
+
+Step 2. Type "A" to select "Yes for All" and click enter to run.
+
+Step 3. Right Click on App_IntallerV2.ps1 and select run with PowerShell
+
+Step 4. Type "R" to select "Run Once".
+
+Applications should begin to download and install. You see pop ups from some application for permission and or additional setup steps. 
+
+****List of Applications included****
+
+Google Chrome (browser)
+Mozilla Firefox (browser)
+Adobe Acrobat Reader DC (PDF reader)
+LibreOffice (open-source office suite)
+WPS Office (office suite)
+Notepad++ (text/code editor)
+Sublime Text (code editor)
+VLC Media Player
+Kodi (media center)
+PotPlayer (video player)
+Winamp (classic music player)
+7-Zip (file compression)
+WinRAR (file compression)
+WinZip (file compression)
+GIMP (open-source image editor)
+Paint.NET (image editing)
+Inkscape (vector graphics)
+Blender (3D modeling and animation)
+Kdenlive
+OpenShot
+Shotcut (free video editor)
+Filmora (video editing)
+Prusa Slicer
+LibreCAD
+Microsoft Visual Studio
+Visual Studio Code
+jetBrains IntelliJ IDEA (Java IDE)
+jetBrains PyCharm (Python IDE)
+Git (version control)
+Microsoft Visio Viewer (Browser Only)
+DiA diagram editor
+Draw.IO
+Godot
+Celestia
+QUCS
+Power Toys
+Ruby 3.1
+GNUCash - accounting software
+KNIME - data analystic
+Pencil -Ui design
+
+
